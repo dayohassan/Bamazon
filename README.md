@@ -1,6 +1,6 @@
 # Bamazon
 
- This an application that takes in orders from customers and deplete stock from the store's inventory.  It is called Bamazon, an Amazon-like storefront created with MySQL. This application basically takes in orders, prints out the client request and updates the inventory of the stock which is purchased. 
+ This is an application that takes in orders from customers and deplete stock from the store's inventory.  It is called Bamazon, an Amazon-like storefront created with MySQL. This application basically takes in orders, prints out the client request and updates the inventory of the stock which is purchased. 
 
  A number of variables and functions were created using Node.js and MySQL. 
 
